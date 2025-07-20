@@ -27,7 +27,7 @@
 ---
 
 ## 🌐 Live Demo
-[t https://codingwithmahim.github.io/MyOwnGame/](#)  
+[https://codingwithmahim.github.io/MyOwnGame/](#)  
 ---
 
 ## 📜 License
